@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Codeable"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "About_me"
+	}
+}
